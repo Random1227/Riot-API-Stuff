@@ -17,7 +17,7 @@ testincrement = 0;
 MATCH_ID_ARRAY = [];
 
 
-API_KEY = 'RGAPI-3ca84c5e-487d-45e9-9607-aa4de10ba968';
+API_KEY = 'PUT YOUR PERSONAL API KEY HERE';
 URL = 'https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/'+SUM_NAME+'?api_key='+API_KEY;
 
 #print(URL);
