@@ -1,3 +1,6 @@
+#Updated 2/25/20
+#Main difference between this and the other file is I added better commenting to the majority of it. 
+#This is the file I will be keeping updated, for no other reason than I am bad at letting go of ugly past programs.
 
 #these are the magic words that make stuff do the thing
 import requests;
